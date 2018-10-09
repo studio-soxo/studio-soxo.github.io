@@ -8,3 +8,4 @@ url: "https://studio-soxo.github.io" # the base hostname & protocol for your sit
 gems: [jekyll-paginate,jekyll-seo-tag,jekyll-sitemap]
 paginate: 3
 google_analytics: 'UA-XXXXXXX-X'
+remote_theme : Nadun Indunil/Modern Blog Version 2
